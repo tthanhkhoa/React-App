@@ -19,3 +19,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.idea/inspectionProfiles/
+.idea/vcs.xml
+#public/images/Skype_Picture.jpeg
+#public/images/Skype_Picture.jpg
